@@ -5,3 +5,5 @@
 See the website here: https://vashakmadze.github.io/ai-image-generation/
  
 Visit Client repository here: https://github.com/Vashakmadze/ai-image-generation
+
+![GIF SHOWCASE](https://github.com/Vashakmadze/ai-image-generation-server/blob/main/generator.gif "WEBSITE SHOWCASE")
